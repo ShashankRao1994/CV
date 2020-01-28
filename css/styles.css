@@ -1,0 +1,41 @@
+body {
+  background-color: #effcef;
+}
+
+hr {
+  background-color: #effcef;
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color:#8bbabb;
+  width: 7%;
+}
+
+h1 {
+  color: teal;
+  font-style: italic;
+  font-family: inherit;
+}
+h2 {
+  color: teal;
+}
+h3 {
+    color: teal;
+}
+h4 {
+  color: #1d4d4f;
+}
+h5 {
+  color: #1d4d4f;
+}
+em{
+  color: #1d4d4f;
+  font-style: normal;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+strong{
+  font: "Fira Sans", serif;
+}
+p{
+  color: #1d4d4f;
+}
+
